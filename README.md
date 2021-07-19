@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Terence! I'm a data analyst and Computer Science graduate student at UPenn.
+- 👋 Hi, I’m Terence! I'm a data analyst and Computer Science graduate student at UPenn. Currently aspiring to be a data engineer.
 - 👀 I'm interested in analytics, data engineering, and civic tech!
 - 🌱 I’m currently learning how to become a data engineer (ETL, Cloud, Big Data processing)
 - 📫 How to reach me: terencerustia@gmail.com / trustia@seas.upenn.edu
