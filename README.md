@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Terence! I'm a data analyst and a Master's in Computer Science student at UPenn! I am aspring to be a data engineer or software engineer working in data.
-- 👀 I'm interested in the applications of data analytics and data engineering on public policy and civic tech efforts.
-- 🌱 I’m currently learning how to become a data engineer (ETL, Cloud, Big Data, distributed systems)
+- 👋 Hi, I’m Terence! I'm a data engineer and a Master's in Computer Science student at UPenn!
+- 👀 I'm interested in the applications of software and data engineering on public policy and social good.
+- 🌱 I’m currently growing my data engineering skill set by expanding my knowledge on cloud tools (AWS & GCP) and distributed systems (Spark).
 - 📫 How to reach me: terencerustia@gmail.com / trustia@seas.upenn.edu
 
 <!---
