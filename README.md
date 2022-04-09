@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Terence! I'm a data engineer and a Master's in Computer Science student at UPenn.
 - 👀 I'm interested in software engineering, data engineering, and civic tech.
-- 🌱 Currently: Golang, Docker, Spark
+- 🌱 Currently: Golang, Spark, distributed system design
 - 📫 How to reach me: terencerustia@gmail.com / trustia@seas.upenn.edu
 
 <!---
