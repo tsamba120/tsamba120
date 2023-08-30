@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Terence! I'm a software engineer and a Master's in Computer Science student at UPenn.
-- 👀 I'm interested in data-intensive software engineering, distributed systems, and civic tech
-- 🌱 Currently exploring: Kafka, stream processing, and event-driven designs
+- 👋 Hi, I’m Terence. I'm a software engineer and a Master's in Computer Science student at UPenn.
 - 📫 How to reach me: terencerustia[AT]gmail[dot]com / trustia[AT]seas.upenn[dot]edu
 
 <!---
